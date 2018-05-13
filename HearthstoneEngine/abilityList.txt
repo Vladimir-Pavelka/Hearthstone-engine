@@ -1,0 +1,63 @@
+2 Keywords
+
+    2.1 Battlecry
+    2.2 Charge
+    2.3 Choose One
+    2.4 Combo
+    2.5 Counter
+    2.6 Deathrattle
+    2.7 Discover
+    2.8 Divine Shield
+    2.9 Enrage
+    2.10 Freeze
+    2.11 Immune
+    2.12 Inspire
+    2.13 Mega-Windfury
+    2.14 Overload
+    2.15 Secret
+    2.16 Silence
+    2.17 Stealth
+    2.18 Spell Damage
+    2.19 Summon
+    2.20 Taunt
+    2.21 Transform
+    2.22 Windfury
+
+3 Other abilities
+
+    3.1 Card draw effect
+    3.2 Copy
+    3.3 Deal damage
+    3.4 Destroy
+    3.5 Discard
+    3.6 Enchant
+    3.7 Elusive
+    3.8 Equip
+    3.9 Forgetful
+    3.10 Gain Armor
+    3.11 Generate
+    3.12 Joust
+    3.13 Mind control effect
+    3.14 Modify cost
+    3.15 Poison
+    3.16 Put into battlefield
+    3.17 Put into hand
+    3.18 Remove from deck
+    3.19 Replace
+    3.20 Restore Health
+    3.21 Return
+    3.22 Shuffle into deck
+
+4 Types of ability
+
+    4.1 Area of effect
+    4.2 In-hand effect
+    4.3 On-draw effect
+    4.4 On-discard effect
+    4.5 Ongoing effect
+    4.6 Positional effect
+    4.7 Proportional effect
+    4.8 Random effect
+    4.9 Removal
+    4.10 Triggered effect
+

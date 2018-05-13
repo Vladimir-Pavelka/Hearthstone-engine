@@ -1,0 +1,24 @@
+﻿TODO:
+- triggered effects (frothing)
+- multiple reacting entities should react in same order as played
+- divine shield test
+- return to hand effect
+- temporary effects
+- IF modifier
+- Mind control effect
+- freeze/poison attack
+- deathrattles
+- faction 
+- aura
+- weapons
+- hero powers
+- set health/attack
+- secrets
+
+Pain In The Ass: 
+- Target ExceptTarget / SpecialCase ?
+- spell power
+- damage instead of heal
+- heal double 
+- random effects
+
